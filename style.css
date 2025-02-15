@@ -1,0 +1,56 @@
+*{
+    margin:0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.main{
+    background-image: url(merlion.jpeg);
+    background-size: contain;
+    height: 100%;
+
+
+}
+#card-tittle{
+    color:crimson;
+}
+.card{
+    width: 500px;
+    border: solid 4px black;
+    border-radius: 25px;
+
+    text-align: center;
+    
+
+}
+img{
+    width: 400px;
+    border-radius: 24px;
+
+}
+img{
+    margin-bottom: 15px;
+}
+#p1, #p2{
+    text-align : justify;
+}
+
+
+.container{
+    border: 2px solid black;
+    width: 80%;
+    margin-left: 150px;
+    positon: relative;
+}
+
+#j2 img{
+    width:100px;
+    position:static;
+
+}
+
+#j1 img{
+    width: 100px;
+    position: relative;
+    left: 200;
+    top: 140;
+
+}
